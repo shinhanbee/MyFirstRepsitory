@@ -2,4 +2,4 @@
 
 Hello my name is Hanbee
 
-<img width="" height="" src="./png/2.jpg">
+<img width="" height="" src="./png/2.JPG">
