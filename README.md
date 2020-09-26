@@ -1,13 +1,13 @@
 # 19273032 신한비
 
 ## 1주차 과제
-
+  <img src="./png/Miffy.jpg">
 
 ## 2주차 과제
 
 캡스톤 디자인 2주차 과제입니다
 
-<img width="" height="" src="./png/19273032.png">
+  <img width="" height="" src="./png/19273032.png">
 
 ## 3주차 과제
 
