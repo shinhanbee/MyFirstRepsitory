@@ -30,7 +30,7 @@
  <img src="./png/pic12.PNG">
  
 ## 9주차 과제
- <img src="./png/9w1.PNG">
- <img src="./png/9w2.PNG">
- <img src="./png/9w3.PNG">
- <img src="./png/9w4.PNG">
+ <img width="" height=""  src="./png/9w1.PNG">
+ <img width="" height=""  src="./png/9w2.PNG">
+ <img width="" height=""  src="./png/9w3.PNG">
+ <img width="" height=""  src="./png/9w4.PNG">
